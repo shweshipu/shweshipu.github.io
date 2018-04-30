@@ -1,7 +1,5 @@
 
 <html>
-this is the only thing that needs presenting, the rest just speak
-
 <?php
   $i = 0;
   for($i = 1;$i<51;$i++){
